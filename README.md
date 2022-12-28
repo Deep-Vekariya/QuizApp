@@ -1,4 +1,4 @@
-# cricket_quiz
+# Quiz App
 
 A new Flutter project.
 
